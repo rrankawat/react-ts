@@ -1,5 +1,11 @@
+import GuestList from './state/GuestList'
+
 const App = () => {
-  return <div>Hello TS</div>
+  return (
+    <div>
+      <GuestList />
+    </div>
+  )
 }
 
 export default App
