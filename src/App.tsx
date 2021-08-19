@@ -1,4 +1,4 @@
-import UserSearch from './classes/UserSearch'
+import UserSearch from './refs/UserSearch'
 
 const App = () => {
   return (
