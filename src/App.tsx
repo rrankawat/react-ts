@@ -1,9 +1,9 @@
-import EventComponent from './events/EventComponent'
+import UserSearch from './classes/UserSearch'
 
 const App = () => {
   return (
     <div>
-      <EventComponent />
+      <UserSearch />
     </div>
   )
 }
